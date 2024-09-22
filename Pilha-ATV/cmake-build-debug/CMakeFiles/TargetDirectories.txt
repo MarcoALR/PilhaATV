@@ -1,0 +1,3 @@
+C:/Users/conta/Desktop/Pilha-ATV/cmake-build-debug/CMakeFiles/PilhaDinamica.dir
+C:/Users/conta/Desktop/Pilha-ATV/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/conta/Desktop/Pilha-ATV/cmake-build-debug/CMakeFiles/rebuild_cache.dir
